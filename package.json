@@ -9,6 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "mapbox-gl": "^1.12.0",
     "nuxt": "^2.14.0"
   },
   "devDependencies": {}
